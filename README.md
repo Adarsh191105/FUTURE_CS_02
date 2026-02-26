@@ -1,7 +1,7 @@
 #FUTURE_CS_02
 Phishing Email Detection & Awareness Report<br>
 Prepared By: Adarsh Dipak Gurav Prepared For: Future Interns<br> 
-Date: 16 February 2026<br>
+Date: 27 February 2026<br>
 
 Overview:<br>
 This repository contains documentation and a detailed analysis of five intercepted phishing email samples. These samples
